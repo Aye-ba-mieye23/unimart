@@ -7,8 +7,7 @@ gi
 html,body{
     width:100%;
     overflow-x: hidden;
-    overflow: hidden;
-    overflow-y: hidden;
+    overflow-y: auto;
 }
 
 header{
